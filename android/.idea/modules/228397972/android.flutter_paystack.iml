@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":flutter_paystack" external.linked.project.path="C:/flutter 2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_paystack-1.0.5+1/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="co.paystack.flutterpaystack" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":flutter_paystack" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="4.1.0" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="7.0.3" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../build/flutter_paystack/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../../build/flutter_paystack/intermediates/compile_r_class_jar/debug/R.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/55c95c54bcc333498198e43b1ddd9be0/transformed/jetified-flutter_embedding_debug-1.0.0-d3ea636dc5d16b56819f3266241e1f708979c233.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/9685037e1eb3688016399edb3393f518/transformed/material-1.4.0-alpha01-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/292c0c99fa636190f171551d78918403/transformed/constraintlayout-2.0.1-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/4be163312ed7ecbf2a93bab1d73e728f/transformed/appcompat-1.2.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/55bc4c89fbf64461ff9b48fbef91a1fd/transformed/jetified-viewpager2-1.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/04cd3c2b1664dd4ed1f15a026f6adfed/transformed/fragment-1.1.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/4d8e80a7d017dcf810ce326323947775/transformed/coordinatorlayout-1.1.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/5d01bc6c69035a934041058ef53b4eb3/transformed/dynamicanimation-1.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/ec3389e672f52d4fea5f0ac12c66cb3f/transformed/recyclerview-1.1.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/a8e814808dfb1488eee9d39eda3711a8/transformed/transition-1.2.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/7386ae9cff1b8a63484a153f622509a8/transformed/jetified-appcompat-resources-1.2.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/f7dd57a3acd8aaf7778d77be7e142777/transformed/vectordrawable-animated-1.1.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/548143b7557ce16ac76370502ebfe2d2/transformed/vectordrawable-1.1.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/8d0104df6f70ef6991bb88bd3ebe410a/transformed/viewpager-1.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/54b332a6863acffe50b506c3f5746d4e/transformed/legacy-support-core-utils-1.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/ac87f8d6bd3df8783c5dced361185680/transformed/loader-1.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/f766dd3a893ffa75ecce400f97cd7b3a/transformed/jetified-activity-1.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/d507785fc7b4c503b439645dab2f05a4/transformed/drawerlayout-1.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/c53e9906e73f9bc8df71e8bb65d795ce/transformed/customview-1.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/09047fab1f423ded444af4525e01d4fb/transformed/core-1.3.1-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/d03e953fafcf48193559c0d8ec4618b9/transformed/lifecycle-runtime-2.2.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/76648e4e5714349771bd6f5cc4db1670/transformed/jetified-savedstate-1.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/2089a2d07daa9558f067799792605fde/transformed/lifecycle-livedata-2.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/4d762c429974c8ba943d33242385731b/transformed/lifecycle-livedata-core-2.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/5f31c33e687adfdfe2b6f0a055b2954a/transformed/cardview-1.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/6280545b0d1471243495fae2eeb5e91c/transformed/core-runtime-2.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/0150945114d800084336da4927993012/transformed/versionedparcelable-1.1.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/9ce1500ba05c4838a052c24cb145a4b6/transformed/lifecycle-viewmodel-2.1.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/970c31877748504eb6ee516981b2eb0b/transformed/cursoradapter-1.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/69a6ddab5725d58ee5281031b4da2c21/transformed/documentfile-1.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/fef5082231b5de65bebe5a43c4c921ea/transformed/localbroadcastmanager-1.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/cc68756cfd3946601489f591ba399534/transformed/print-1.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/bc741b938a269989d91a76f48871c639/transformed/interpolator-1.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/c52c2fb29cda9e81a57b847f610b3e43/transformed/jetified-kotlin-stdlib-jdk7-1.4.31.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/91d641bc55455f0489dccf916731288e/transformed/jetified-kotlin-stdlib-1.4.31.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/7d4d5aabc94305874d04ab902b0d7f83/transformed/jetified-kotlin-stdlib-common-1.4.31.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/8b0068d8c10a4496f18cab0c34b0344f/transformed/jetified-annotations-13.0.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout-solver/2.0.1/30988fe2d77f3fe3bf7551bb8a8b795fad7e7226/constraintlayout-solver-2.0.1.jar;C:/Users/PEAK LINK FLUTTER 1/.gradle/caches/transforms-3/043f2da8e34830ac370fb76c56dfaaec/transformed/jetified-annotation-experimental-1.0.0-api.jar;C:/Users/PEAK LINK FLUTTER 1/AppData/Local/Android/sdk/platforms/android-28/android.jar;C:/Users/PEAK LINK FLUTTER 1/AppData/Local/Android/sdk/build-tools/30.0.2/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="flutter_paystack_debug" />
+          <option name="jvmTarget" value="1.6" />
+          <option name="languageVersion" value="1.4" />
+          <option name="apiVersion" value="1.4" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://C:/flutter 2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_paystack-1.0.5+1/android/src/main/res;file://C:/flutter 2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_paystack-1.0.5+1/android/src/debug/res;file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/res/rs/debug;file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://C:/flutter 2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_paystack-1.0.5+1/android/src/androidTest/res;file://C:/flutter 2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_paystack-1.0.5+1/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../build/flutter_paystack/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../build/flutter_paystack/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/aidl_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/ap_generated_sources/debugUnitTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/renderscript_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/res/resValues/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/res/resValues/debug" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_paystack/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://C:/flutter 2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_paystack-1.0.5+1/android">
+      <sourceFolder url="file://C:/flutter 2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_paystack-1.0.5+1/android/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://C:/flutter 2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_paystack-1.0.5+1/android/src/main/res" type="java-resource" />
+      <excludeFolder url="file://C:/flutter 2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_paystack-1.0.5+1/android/.gradle" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.flutter:flutter_embedding_debug:1.0.0-d3ea636dc5d16b56819f3266241e1f708979c233" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.4.31" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.4.31" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.31" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.constraintlayout:constraintlayout-solver:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.material:material:1.4.0-alpha01@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.constraintlayout:constraintlayout:2.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:1.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.transition:transition:1.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat-resources:1.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.3.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cardview:cardview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.print:print:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation-experimental:1.0.0@aar" level="project" />
+  </component>
+</module>
